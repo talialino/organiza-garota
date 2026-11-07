@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="minha-rotina/icon-192.png" width="88" alt="Ícone do Minha Rotina">
+<img src="minha-rotina/icon-192.png" width="88" alt="Ícone do Organiza Garota">
 
-# Minha Rotina
+# Organiza Garota
 
 Planner semanal em formato de livro aberto: de um lado, **Meu Dia**; do outro, **Plano do Dia**.<br>
 Com virada de página em 3D, temas de cor, instalação como app e funcionamento offline.
@@ -13,13 +13,15 @@ Com virada de página em 3D, temas de cor, instalação como app e funcionamento
 ![PWA](https://img.shields.io/badge/PWA-offline-5A0FC8?logo=pwa&logoColor=white)
 ![Sem dependências](https://img.shields.io/badge/depend%C3%AAncias-0-brightgreen)
 
+### [🔗 Acesse online: organizagarota.netlify.app](https://organizagarota.netlify.app)
+
 </div>
 
-![Minha Rotina aberto no computador](docs/screenshots/desktop.png)
+![Organiza Garota aberto no computador](docs/screenshots/desktop.png)
 
 ## Sobre
 
-O Minha Rotina mantém a sensação de folhear um planner de papel, com páginas que viram de verdade, e soma as vantagens de um app: copiar o planejamento de um dia para outro, guardar semanas anteriores e usar no celular sem internet.
+O Organiza Garota mantém a sensação de folhear um planner de papel, com páginas que viram de verdade, e soma as vantagens de um app: copiar o planejamento de um dia para outro, guardar semanas anteriores e usar no celular sem internet.
 
 O app inteiro é **HTML, CSS e JavaScript puros**, sem framework, sem biblioteca e sem etapa de build. As ilustrações são SVGs escritos à mão dentro do código.
 
@@ -110,7 +112,7 @@ npx serve minha-rotina
 python -m http.server 8080 --directory minha-rotina
 ```
 
-Para publicar, envie a pasta `minha-rotina/` para qualquer hospedagem estática. O app está publicado na Netlify.
+Para publicar, envie a pasta `minha-rotina/` para qualquer hospedagem estática. A versão online está na [Netlify](https://organizagarota.netlify.app).
 
 ## Autora
 
